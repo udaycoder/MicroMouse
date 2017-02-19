@@ -1,0 +1,1 @@
+A small project made using C# and XAML. It shows how basic pathfinding works where a mouse searches for a cheese peice in shortest time using the quickest path.The randomize obstacle button produces random maze where there are no cycles present produced by a modified cycle detection algorithm.
