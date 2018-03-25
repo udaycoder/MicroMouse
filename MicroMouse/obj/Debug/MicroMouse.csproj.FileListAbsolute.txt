@@ -1,0 +1,14 @@
+c:\users\hpworld\documents\visual studio 2015\Projects\MicroMouse\MicroMouse\bin\Debug\MicroMouse.exe.config
+c:\users\hpworld\documents\visual studio 2015\Projects\MicroMouse\MicroMouse\obj\Debug\MainWindow.g.cs
+c:\users\hpworld\documents\visual studio 2015\Projects\MicroMouse\MicroMouse\obj\Debug\App.g.cs
+c:\users\hpworld\documents\visual studio 2015\Projects\MicroMouse\MicroMouse\obj\Debug\MicroMouse_MarkupCompile.cache
+c:\users\hpworld\documents\visual studio 2015\Projects\MicroMouse\MicroMouse\obj\Debug\MicroMouse_MarkupCompile.lref
+c:\users\hpworld\documents\visual studio 2015\Projects\MicroMouse\MicroMouse\bin\Debug\MicroMouse.exe
+c:\users\hpworld\documents\visual studio 2015\Projects\MicroMouse\MicroMouse\bin\Debug\MicroMouse.pdb
+c:\users\hpworld\documents\visual studio 2015\Projects\MicroMouse\MicroMouse\obj\Debug\MainWindow.baml
+c:\users\hpworld\documents\visual studio 2015\Projects\MicroMouse\MicroMouse\obj\Debug\MicroMouse.g.resources
+c:\users\hpworld\documents\visual studio 2015\Projects\MicroMouse\MicroMouse\obj\Debug\MicroMouse.Properties.Resources.resources
+c:\users\hpworld\documents\visual studio 2015\Projects\MicroMouse\MicroMouse\obj\Debug\MicroMouse.csproj.GenerateResource.Cache
+c:\users\hpworld\documents\visual studio 2015\Projects\MicroMouse\MicroMouse\obj\Debug\MicroMouse.exe
+c:\users\hpworld\documents\visual studio 2015\Projects\MicroMouse\MicroMouse\obj\Debug\MicroMouse.pdb
+C:\Users\hpworld\documents\visual studio 2015\Projects\MicroMouse\MicroMouse\obj\Debug\MicroMouse.csprojResolveAssemblyReference.cache
